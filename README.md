@@ -22,4 +22,5 @@ Some might have list of csv, links of googlesheets and other services
 * Jcpenney - [Google sheet](https://docs.google.com/spreadsheets/d/1ydU9ZszBYnISf7knRdr0HB-5IMFl_uqwON7TbgyxXqc/edit?usp=sharing) | [website](https://www.jcpenney.com/)
 * Personal bankers - [Google sheet](https://docs.google.com/spreadsheets/d/1sBecEyqRj693BRjMWgbYCUWdSaImZrWXx6iYwXhywTg/edit?usp=sharing)
 * Pet Corner - [Google sheet](https://docs.google.com/spreadsheets/d/1EAjGa-gkEC8LJu7s9nJ8hJS_0R3MIKXTSnctBBhjcfU/edit?usp=sharing) | [website](https://petcornerdubai.com/)
+* USA ZipCodes - [Airtable](https://airtable.com/appVFv4iYQD2h84tv/shr2gZKTfspxYWXdn/tbl0OExhgKXgIj7y9)
   
