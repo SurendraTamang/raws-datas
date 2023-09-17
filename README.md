@@ -25,3 +25,13 @@ Some might have list of csv, links of googlesheets and other services
 * USA ZipCodes - [Airtable](https://airtable.com/appVFv4iYQD2h84tv/shr2gZKTfspxYWXdn/tbl0OExhgKXgIj7y9)
 * Federal Lien Records - [Google Sheets](https://docs.google.com/spreadsheets/d/1VmpusW6Yo3njy34tih_xQR_QZCggKVE-VtIvuylf-wo/edit?usp=sharing)
 * La Europea - [Google Sheets](https://docs.google.com/spreadsheets/d/1e2a8LR6ca9-auPWC8I4HgcfTy2M_y0B46EHLwD46QiM/edit?usp=sharing) | [Website](https://laeuropea.com.mx)
+* Lee Hecht Harrison - [Google sheet](https://docs.google.com/spreadsheets/d/1mfXE7f3eWANEV6S1Kg8tJY1n8aruXPjXCNNQdqYUONo/edit?usp=sharing) | [Website](https://www.lhh.com/be/nl)
+* fahorro - [Google sheet](https://docs.google.com/spreadsheets/d/1l2bjNSJCAIiaw5KjsICKfRP3mVPR608bKwjFk80XdG0/edit?usp=sharing) | [Website](https://www.fahorro.com/cicloferon-5-crema-2-gr.html)
+* linkedin - [Google sheet](https://docs.google.com/spreadsheets/d/1aNnnYCUvSGJelunXehwJKpDF1ZHv3sL8NknbKMtHUqg/edit?usp=sharing) | [Website](https://www.linkedin.com)
+* questions and answers - [Google sheet](https://docs.google.com/spreadsheets/d/1Ula_ux-h-Ad1-d3iBnk7CEo5kjNdTS7s-Gw2sCNGT2k/edit?usp=sharing)
+* Farmalisto - [Google sheet](https://docs.google.com/spreadsheets/d/1Jx5yfLL7cziH20cJyK1qiaPxxWT87V4q8z2xzHSABWw/edit?usp=sharing) | [Website](https://www.farmalisto.com)
+* Government of Nepal - [Google sheet](https://docs.google.com/spreadsheets/d/1Tl6KpPux9YKKSg2d1oXHD7tbCKI56LJduPk4lk3FxK8/edit?usp=sharing)
+* Zippia - [Google sheet](https://docs.google.com/spreadsheets/d/1kby2Ge703mxWIdbcn95c_80GT_NtCfpfm-um1A_eFeI/edit?usp=sharing) | [Website](https://www.zippia.com)
+* WordPress - [Google sheet](https://docs.google.com/spreadsheets/d/1UwGyBu4q4cGV_Mj8Unc0jLRIbr5w0pHyzPzBG8XBaS4/edit?usp=sharing) | [Website]( https://wordpress.com)
+* Nike - [Google sheet](https://docs.google.com/spreadsheets/d/1GhUCqBoVjqJQTilGhTU7kmbEZ8nFMSaSWnZUhL5OETw/edit?usp=sharing) | [website](https://www.nike.com)
+* 
