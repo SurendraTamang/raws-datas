@@ -34,4 +34,3 @@ Some might have list of csv, links of googlesheets and other services
 * Zippia - [Google sheet](https://docs.google.com/spreadsheets/d/1kby2Ge703mxWIdbcn95c_80GT_NtCfpfm-um1A_eFeI/edit?usp=sharing) | [Website](https://www.zippia.com)
 * WordPress - [Google sheet](https://docs.google.com/spreadsheets/d/1UwGyBu4q4cGV_Mj8Unc0jLRIbr5w0pHyzPzBG8XBaS4/edit?usp=sharing) | [Website]( https://wordpress.com)
 * Nike - [Google sheet](https://docs.google.com/spreadsheets/d/1GhUCqBoVjqJQTilGhTU7kmbEZ8nFMSaSWnZUhL5OETw/edit?usp=sharing) | [website](https://www.nike.com)
-* 
