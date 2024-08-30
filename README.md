@@ -71,4 +71,4 @@ Some might have list of csv, links of googlesheets and other services
 *  Popular Software Tools on Apify 2023 - [Google sheet](https://docs.google.com/spreadsheets/d/1K_AMSNAoZSirwI-Jd1odshhnLN5qCjdTDLtvNbGCwmM/edit?usp=sharing) | [Website](https://apify.com/)
 *  LinkedIn Profiles Extracted via Google XRay 2022 - [Google sheet](https://docs.google.com/spreadsheets/d/1hSF67uzD5F9XG2t2Ba7WHgT_KXbhQJ7H4epjjW1cEpA/edit?usp=sharing)
 *  Benavides Pharmacy Product Listings - [Google sheet](https://docs.google.com/spreadsheets/d/1DwxN5gGZhDVbkXWUZwn5oQ-XGThIgXimJbK78v0cNe8/edit?usp=sharing)
-*  Upwork Jobs - [CSV](./upwork-jobs-2024)
+*  Upwork Jobs - [CSV](./upwork_jobs_2024)
